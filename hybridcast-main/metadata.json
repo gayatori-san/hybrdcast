@@ -1,0 +1,6 @@
+{
+  "name": "HybridCast",
+  "description": "HybridCast: AI–NWP Multi-Model Weather Forecast Blending System with ML bias correction, uncertainty bounds, and IMD/NCMRWF verification SOP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
